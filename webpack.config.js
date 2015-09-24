@@ -11,7 +11,7 @@ module.exports = {
 			{
 				test: /\.jsx$/,
 				exclude: /node_modules/,
-				loader: 'jsx-loader'
+				loader: 'jsx'
 			},
 			{
 				test: /\.scss$/,
