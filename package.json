@@ -1,0 +1,12 @@
+{
+	"name": "todo-reflux",
+	"version": "0.1.0",
+	"description": "Todo app using the Reflux React architecture",
+	"main": "app.js",
+	"author": "Diego Moreira <diegoalvesmoreira@gmail.com",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dimoreira"
+	}
+}
